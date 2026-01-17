@@ -3,7 +3,7 @@
 This repository contains the tasks completed as part of the CodSoft Internship Program (January 2026).
 
 ## Domain
-Web Development
+UI/UX Design
 
 ## Tasks
 - Task 1: completed
