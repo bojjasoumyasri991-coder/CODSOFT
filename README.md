@@ -6,8 +6,8 @@ This repository contains the tasks completed as part of the CodSoft Internship P
 Web Development
 
 ## Tasks
-- Task 1: In progress
-- Task 2: Pending
-
+- Task 1: completed
+- Task 2: completed
+- Task 3: completed
 ## Author
 Soumya Sri
